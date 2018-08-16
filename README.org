@@ -1,27 +1,29 @@
-* Awesome sceptical machine learning 
+* Awesome sceptical machine learning
 
-Unordered materials, sceptical about current state of the Machine Learning/AI/Deep Learning. 
+Unordered materials, sceptical about current state of the Machine Learning/AI/Deep Learning.
 
 ** Papers
-   + Do Cifar 10 generalize to CIFAR10, Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar 
+   + Do Cifar 10 generalize to CIFAR10, Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
      + Paper: https://arxiv.org/abs/1806.00451
 
    + Troubling trends in Machine Learning Scholarship, Zachary C. Lipton & Jacob Steinhardt
      + preprint https://arxiv.org/abs/1807.03341
 
-   + Gary Marcus Criticism 
-     + Deep Learning: A Critical Appraisal 
-       + Paper: https://arxiv.org/abs/1801.00631
-       + Blog: Very good comment on [[https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1][medium]]
-     + Innateness, AlphaZero, and Artificial Intelligence 
-        + Paper: https://arxiv.org/abs/1801.05667
-
-   + Geoffrey Hinton - what is wrong with ConvNets and why CapsNets? 
+    + Geoffrey Hinton - what is wrong with ConvNets and why CapsNets?
      + Video: [[https://www.youtube.com/watch?v=rTawFwUvnLE][What is wrong with ConvNets?]]
      + Slides: [[http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf][Does the brain do Inverse Graphics?]]
      + CapsuleNet paper: https://arxiv.org/abs/1710.09829
      + Video: [[https://www.youtube.com/watch?v=pPN8d0E3900][CapsNet explanation by Aurélien Géron]] ("This is an amazingly good video. I wish I could explain capsules that well.", Geoffrey Hinton)
      + List of resources: [[https://github.com/sekwiatkowski/awesome-capsule-networks][awesome capsule networks]]
+
+   + Gary Marcus Criticism
+     + Deep Learning: A Critical Appraisal
+       + Paper: https://arxiv.org/abs/1801.00631
+       + Blog: Very good comment on [[https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1][medium]]
+     + Innateness, AlphaZero, and Artificial Intelligence
+        + Paper: https://arxiv.org/abs/1801.05667
+
+   + [[http://www.tina-vision.net/docs/memos/2018-002.pdf][Deep Learning: Some Criticism for Discussion, Neil Thacker]]
 
 ** Presentations
    + Ali Rahimi and Ben Recht, Criticism at NIPS 2017 Test of time award aka Alchemy Talk
@@ -46,7 +48,7 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
      - Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time.
      - "… great read, hits a lot of points I've also come to realize over last ~2 years. 70% is a vast understatement.", A. Karpathy ([[https://twitter.com/karpathy/status/963850798886039552][here]])
      - Blogpost: https://www.alexirpan.com/2018/02/14/rl-hard.html
-   
+
    + Filip Piekniewski blog
      + https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/
      + https://blog.piekniewski.info/2018/06/06/ai-winter-addendum/
