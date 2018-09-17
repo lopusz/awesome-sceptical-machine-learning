@@ -32,6 +32,9 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
      + [[https://www.facebook.com/yann.lecun/posts/10154938130592143][comment by Yann LeCun]]
      + [[https://www.inference.vc/my-thoughts-on-alchemy/][comment by Ferenc Huszar (blog post)]]
 
+** Venues
+   + Critiquing and Correcting Trends in Machine Learning 2018 (NIPS Workshop)
+     + https://ml-critique-correct.github.io/
 ** Blog posts, interviews, etc.
    + Judea Pearl, "All the impressive achievements of deep learning amount to just curve fitting"
      + [[https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/][interview from Quantamagazine]]
@@ -53,3 +56,6 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
      + https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/
      + https://blog.piekniewski.info/2018/06/06/ai-winter-addendum/
      + https://blog.piekniewski.info/2018/02/09/a-v-safety-2018-update/
+
+   + Driverless Hype Collides With Merciless Reality,  Christopher Mims (Wall Street Journal)
+     + https://www.wsj.com/articles/driverless-hype-collides-with-merciless-reality-1536831005
