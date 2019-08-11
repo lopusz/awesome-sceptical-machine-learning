@@ -3,10 +3,7 @@
 Unordered materials, sceptical about current state of the Machine Learning/AI/Deep Learning.
 
 ** Papers
-   + Do Cifar 10 generalize to CIFAR10, Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
-     + Paper: https://arxiv.org/abs/1806.00451
-
-   + Troubling trends in Machine Learning Scholarship, Zachary C. Lipton & Jacob Steinhardt
+  + Troubling trends in Machine Learning Scholarship, Zachary C. Lipton & Jacob Steinhardt
      + preprint https://arxiv.org/abs/1807.03341
 
     + Geoffrey Hinton - what is wrong with ConvNets and why CapsNets?
@@ -24,6 +21,16 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
         + Paper: https://arxiv.org/abs/1801.05667
 
    + [[http://www.tina-vision.net/docs/memos/2018-002.pdf][Deep Learning: Some Criticism for Discussion, Neil Thacker]]
+
+   + Overfitting to death on public datasets
+     + Do Cifar 10 generalize to CIFAR10? by Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
+       + https://arxiv.org/abs/1806.00451
+
+     + Do ImageNet Classifiers Generalize to ImageNet? by Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
+       + https://arxiv.org/abs/1902.10811
+
+     + Open Problem: How fast can a multiclass test set be overfit? by Vitaly Feldman, Roy Frostig, Moritz Hardt
+       + http://proceedings.mlr.press/v99/feldman19b/feldman19b.pdf
 
 ** Presentations
    + Ali Rahimi and Ben Recht, Criticism at NIPS 2017 Test of time award aka Alchemy Talk
