@@ -4,33 +4,36 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
 
 ** Papers
   + Troubling trends in Machine Learning Scholarship, Zachary C. Lipton & Jacob Steinhardt
-     + preprint https://arxiv.org/abs/1807.03341
+    + https://arxiv.org/abs/1807.03341
 
-    + Geoffrey Hinton - what is wrong with ConvNets and why CapsNets?
-     + Video: [[https://www.youtube.com/watch?v=rTawFwUvnLE][What is wrong with ConvNets?]]
-     + Slides: [[http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf][Does the brain do Inverse Graphics?]]
-     + CapsuleNet paper: https://arxiv.org/abs/1710.09829
-     + Video: [[https://www.youtube.com/watch?v=pPN8d0E3900][CapsNet explanation by Aurélien Géron]] ("This is an amazingly good video. I wish I could explain capsules that well.", Geoffrey Hinton)
-     + List of resources: [[https://github.com/sekwiatkowski/awesome-capsule-networks][awesome capsule networks]]
+  + Geoffrey Hinton - what is wrong with ConvNets and why CapsNets?
+    + Video: [[https://www.youtube.com/watch?v=rTawFwUvnLE][What is wrong with ConvNets?]]
+    + Slides: [[http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf][Does the brain do Inverse Graphics?]]
+    + CapsuleNet paper: https://arxiv.org/abs/1710.09829
+    + Video: [[https://www.youtube.com/watch?v=pPN8d0E3900][CapsNet explanation by Aurélien Géron]] ("This is an amazingly good video. I wish I could explain capsules that well.", Geoffrey Hinton)
+    + List of resources: [[https://github.com/sekwiatkowski/awesome-capsule-networks][awesome capsule networks]]
 
-   + Gary Marcus Criticism
-     + Deep Learning: A Critical Appraisal
-       + Paper: https://arxiv.org/abs/1801.00631
-       + Blog: Very good comment on [[https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1][medium]]
-     + Innateness, AlphaZero, and Artificial Intelligence
-        + Paper: https://arxiv.org/abs/1801.05667
+  + Gary Marcus Criticism
+    + Deep Learning: A Critical Appraisal
+      + Paper: https://arxiv.org/abs/1801.00631
+      + Blog: Very good comment on [[https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1][medium]]
+    + Innateness, AlphaZero, and Artificial Intelligence
+      + https://arxiv.org/abs/1801.05667
 
-   + [[http://www.tina-vision.net/docs/memos/2018-002.pdf][Deep Learning: Some Criticism for Discussion, Neil Thacker]]
+  + [[http://www.tina-vision.net/docs/memos/2018-002.pdf][Deep Learning: Some Criticism for Discussion, Neil Thacker]]
 
-   + Overfitting to death on public datasets
-     + Do Cifar 10 generalize to CIFAR10? by Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
-       + https://arxiv.org/abs/1806.00451
+  + Overfitting to death on public datasets
+    + Do Cifar 10 generalize to CIFAR10? by Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
+      + https://arxiv.org/abs/1806.00451
 
-     + Do ImageNet Classifiers Generalize to ImageNet? by Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
-       + https://arxiv.org/abs/1902.10811
+    + Do ImageNet Classifiers Generalize to ImageNet? by Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
+      + https://arxiv.org/abs/1902.10811
 
-     + Open Problem: How fast can a multiclass test set be overfit? by Vitaly Feldman, Roy Frostig, Moritz Hardt
-       + http://proceedings.mlr.press/v99/feldman19b/feldman19b.pdf
+    + Open Problem: How fast can a multiclass test set be overfit? by Vitaly Feldman, Roy Frostig, Moritz Hardt
+      + http://proceedings.mlr.press/v99/feldman19b/feldman19b.pdf
+
+  + Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches
+    + https://arxiv.org/abs/1907.06902
 
 ** Presentations
    + Ali Rahimi and Ben Recht, Criticism at NIPS 2017 Test of time award aka Alchemy Talk
@@ -39,9 +42,27 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
      + [[https://www.facebook.com/yann.lecun/posts/10154938130592143][comment by Yann LeCun]]
      + [[https://www.inference.vc/my-thoughts-on-alchemy/][comment by Ferenc Huszar (blog post)]]
 
+** NoBullshitDataScience™ resources
+   + NoBullshitDataScience™ trilogy talks by Vincent Warmerdam
+     + Winning with Simple, even Linear, Models (PyData London 2018)
+       + video: https://www.youtube.com/watch?v=68ABAU_V8qI
+     + The Profession of Solving (the Wrong Problem) (PyData Amsterdam 2019)
+       + slides: http://koaning.io/theme/notebooks/solving-problems.pdf
+       + video: https://www.youtube.com/watch?v=kYMfE9u-lMo
+     + Constraining Artificial Stupidity (PyData London 2019)
+       + slides: http://koaning.io/theme/notebooks/artificial-stupidity.pdf
+       + video: http://koaning.io/theme/notebooks/artificial-stupidity.pdf
+   + 5 types of nonsense data science projects
+     + http://nadbordrozd.github.io/blog/2019/08/11/5-types-of-nonsense-data-science/
+   + Applied NLP: Lessons from the Field
+     + slides: https://docs.google.com/presentation/d/10wsqCTs4GqzWJlyrH2vhiwKSSPdmoP1N7D2Qr6MMKFk/edit
+     + blog: https://pmbaumgartner.github.io/blog/applied-nlp-lessons/
+     + video: Applied NLP: Lessons from the Field
+
 ** Venues
    + Critiquing and Correcting Trends in Machine Learning 2018 (NIPS Workshop)
      + https://ml-critique-correct.github.io/
+
 ** Blog posts, interviews, etc.
    + Judea Pearl, "All the impressive achievements of deep learning amount to just curve fitting"
      + [[https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/][interview from Quantamagazine]]
@@ -55,9 +76,9 @@ Unordered materials, sceptical about current state of the Machine Learning/AI/De
      + But Hinton suggested that, to get to where neural networks are able to become intelligent on their own, what is known as "unsupervised learning," "I suspect that means getting rid of back-propagation."
 
    + Reinforcement Learning does not work yet
-     - Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time.
-     - "… great read, hits a lot of points I've also come to realize over last ~2 years. 70% is a vast understatement.", A. Karpathy ([[https://twitter.com/karpathy/status/963850798886039552][here]])
-     - Blogpost: https://www.alexirpan.com/2018/02/14/rl-hard.html
+     + Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time.
+     + "… great read, hits a lot of points I've also come to realize over last ~2 years. 70% is a vast understatement.", A. Karpathy ([[https://twitter.com/karpathy/status/963850798886039552][here]])
+     + Blogpost: https://www.alexirpan.com/2018/02/14/rl-hard.html
 
    + Filip Piekniewski blog
      + https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/
