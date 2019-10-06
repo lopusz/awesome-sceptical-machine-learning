@@ -1,0 +1,9 @@
+** Resources on computational creativity, procedural content generation etc.
+   + Procedural Content Generation in Games, awesome book available on-line 
+     + http://pcgbook.com/
+   + Dr. Michael Cook, AI Researcher and Designer, guru in the field
+     + http://www.possibilityspace.org/
+   + So you want to build a generator... - The very post by Kate Compton 
+     + https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator
+   + Association of Association for Computational Creativity
+     + http://computationalcreativity.net/home/
