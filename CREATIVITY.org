@@ -7,3 +7,4 @@
      + https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator
    + Association of Association for Computational Creativity
      + http://computationalcreativity.net/home/
+     + Conferences (usually with materials): http://computationalcreativity.net/home/conferences/
